@@ -1,0 +1,13 @@
+2026-11-24 12:03:17,721 - INFO - Total price calculated successfully: 1500
+2026-11-24 12:03:17,722 - INFO - Discount applied successfully: 1800.0
+2026-11-24 12:03:17,722 - INFO - Discount applied successfully: 0.0
+2026-11-24 12:03:17,722 - INFO - Stock available
+2026-11-24 12:03:17,723 - WARNING - Insufficient stock
+2026-11-24 12:04:46,278 - INFO - Total price calculated successfully: 1500
+2026-11-24 12:04:46,279 - ERROR - Price must be greater than zero
+2026-11-24 12:04:46,279 - INFO - Discount applied successfully: 1800.0
+2026-11-24 12:04:46,280 - INFO - Discount applied successfully: 0.0
+2026-11-24 12:04:46,280 - ERROR - Invalid discount percentage
+2026-11-24 12:04:46,280 - INFO - Stock available
+2026-11-24 12:04:46,280 - WARNING - Insufficient stock
+2026-11-24 12:04:46,280 - ERROR - Requested quantity must be positive
